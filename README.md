@@ -16,9 +16,19 @@ I build web and mobile projects with a focus on useful interfaces, clear workflo
 
 More project previews, including **RECURA** and **NOVA KART**, are available in my [portfolio](https://lady-liberty.vercel.app). Some source repositories are private.
 
-## Tools
+## Technologies & tools
 
-**Web:** React, Next.js, JavaScript, TypeScript, HTML, CSS  
-**Mobile:** Flutter, Dart  
-**Programming & data:** Python, SQL, PHP, MySQL, C#  
-**Design & collaboration:** Figma, Git, GitHub
+| Area | Technologies |
+| --- | --- |
+| Web foundations | HTML, CSS, JavaScript, TypeScript |
+| Web frameworks & UI | React, Next.js, Tailwind CSS, Framer Motion, React Router, Lucide, Radix UI |
+| Mobile | Flutter, Dart, React Native, Java |
+| Backend & desktop | Python, Flask, PySide6, PHP, C# |
+| Databases & data access | SQL, MySQL, PostgreSQL, SQLite, Supabase, SQLAlchemy |
+| Machine learning & analysis | Machine Learning, scikit-learn, PHP-ML, NumPy, pandas, SciPy, joblib |
+| 3D, charts & maps | Three.js, WebGL, D3, Recharts, Leaflet |
+| App state & local storage | Zustand, Riverpod, Hive, SharedPreferences |
+| Browser extensions | Chrome Manifest V3 |
+| Development & design | Vite, Git, GitHub, Figma |
+
+This toolkit reflects the technologies listed in my portfolio and project stacks. The machine-learning workflows in **DiaBeatIt** and **Mood Diary** were group projects.
