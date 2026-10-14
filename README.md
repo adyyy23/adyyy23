@@ -1,30 +1,24 @@
 # Lady Liberty Caragay
 
-### Web & Mobile Application Development
+I build web and mobile projects with a focus on useful interfaces, clear workflows, and practical application design.
 
-I’m a fourth-year BS Information Technology student at **Laguna State Polytechnic University, San Pablo Campus**, specializing in **Web and Mobile Application Development**. I build web and mobile projects and enjoy turning ideas into clear, useful interfaces.
+[Portfolio](https://lady-liberty.vercel.app) · [LinkedIn](https://www.linkedin.com/in/lady-liberty-caragay) · [Facebook](https://www.facebook.com/ladylibertyc) · [Instagram](https://www.instagram.com/_liberty.cl/)
 
-[Portfolio](https://lady-liberty.vercel.app) · [LinkedIn](https://www.linkedin.com/in/lady-liberty-caragay)
+## Projects
 
-## Selected work
-
-| Project | Focus |
+| Project | What it explores |
 | --- | --- |
-| [ORBIT](https://github.com/adyyy23/orbit-os) | Personal context and intelligence platform |
-| [TRACE](https://github.com/adyyy23/trace-privacy-security-inspector) | Browser privacy and security inspection extension |
-| [Breachroom](https://github.com/adyyy23/breachroom) | Security operations investigation workstation built with Python and PySide6 |
+| [ORBIT](https://github.com/adyyy23/orbit-os) | Personal context, knowledge graphs, decisions, and project relationships |
+| [PAWLY](https://github.com/adyyy23/PetConsoleApp) | Flutter pet-care workflows and a digital health passport |
+| [VELA Health](https://github.com/adyyy23/vela-health) | Provider directories, appointment booking, and role-based experiences |
+| [FounderHub](https://github.com/adyyy23/FounderHub) | Investor pipelines, goals, roadmaps, and founder dashboards |
+| [StudyDeck](https://github.com/adyyy23/studydeck) | Flashcards, quizzes, study sessions, and progress tracking |
 
-More web and mobile projects, including **PAWLY**, **RECURA**, and **NOVA KART**, are featured in my [portfolio](https://lady-liberty.vercel.app).
+More project previews, including **RECURA** and **NOVA KART**, are available in my [portfolio](https://lady-liberty.vercel.app). Some source repositories are private.
 
-## Tools I work with
+## Tools
 
-- **Web:** JavaScript, TypeScript, React, Next.js, HTML, CSS
-- **Mobile:** Flutter and Dart
-- **Programming & data:** Python, SQL, PHP, MySQL, C#
-- **Design & collaboration:** Figma, Git, GitHub
-
-## Internship availability
-
-I’m seeking a **400-hour academic IT internship/OJT** starting **January 4, 2027**, with **40 hours per week** available. I prefer remote work and am open to hybrid and onsite opportunities in the Philippines.
-
-Expected graduation: **July 2027**.
+**Web:** React, Next.js, JavaScript, TypeScript, HTML, CSS  
+**Mobile:** Flutter, Dart  
+**Programming & data:** Python, SQL, PHP, MySQL, C#  
+**Design & collaboration:** Figma, Git, GitHub
